@@ -1,6 +1,0 @@
-[gerrit]
-host=review.blissroms.com
-port=29418
-project=android_packages_services_Telephony.git
-defaultbranch=lp5.0
-
